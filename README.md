@@ -1,2 +1,2 @@
-# GaTech
+# AcademicJourneyDocs
 studying documents 
